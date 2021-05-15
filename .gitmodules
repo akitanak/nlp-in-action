@@ -1,0 +1,3 @@
+[submodule "nlpia"]
+	path = nlpia
+	url = https://github.com/totalgood/nlpia.git
